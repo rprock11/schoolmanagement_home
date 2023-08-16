@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;600&display=swap');
+
+#demo {
+    display: flex;
+    gap: 10px;
+}
+
+#hero {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Digital {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 49px;
+}
+
+#navmenu a {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+
+
+}
+#whyus
+{
+    height: 500px;
+}
+#eschool
+{
+    height: 100px;
+    mix-blend-mode: darken;
+}
+
+#header{
+    width: 80%;
+    margin: 0px auto;
+}
+#gap
+{
+    gap: 20px;
+}
